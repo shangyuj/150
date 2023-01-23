@@ -1,7 +1,6 @@
 # English 150
 ## 1/23
 ### Annotate Genre Features of a Narrative
-#### Section 9
 [Group 1 Link](https://docs.google.com/document/d/1_cSslx4TwlJbqVGfD0XE9ViholDApORI7IPG-oY3p3w/edit?usp=sharing)  
 [Group 2 Link](https://docs.google.com/document/d/1lMls-etzMy2DE8Z_cupengo2TtJ0sImY6E7_NoxUF8I/edit?usp=sharing)  
 [Group 3 Link](https://docs.google.com/document/d/1NgZtUjqCeYOoqVteAzWAO37-s9XzLi0PJPoH3FVAEcs/edit?usp=sharing)  
