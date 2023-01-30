@@ -1,4 +1,9 @@
 # English 150
+## 1/30
+### Freewrite #1: Create an outline of your story along the "arc"
+Click [this link](https://docs.google.com/document/d/1ZJv0wCOBM4SrBvcJDyc8PwoytF4yWtOW7QQxafTXgU0/copy) to create a copy of the prompts.
+### Freewrite #2: Examine your Ethos, Logos, and Pathos
+Click [this link](https://docs.google.com/document/d/1S3SdoGjcivXVyiNR9UALYYZ8TMXIbpoBNyJKYuydNUY/copy) to create a copy of the prompts.
 ## 1/23
 ### Annotate Genre Features of a Narrative
 [Group 1 Link](https://docs.google.com/document/d/1_cSslx4TwlJbqVGfD0XE9ViholDApORI7IPG-oY3p3w/edit?usp=sharing)  
