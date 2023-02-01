@@ -1,4 +1,7 @@
 # English 150
+## 2/1
+### Freewrite: Audience Analysis
+Click [this link](https://docs.google.com/document/d/1oBFbdjgxg5MzD56YOhMST_6pGMu9baji7kvEpJ5XWbg/edit?usp=sharing) for the prompts.
 ## 1/30
 ### Freewrite #1: Create an outline of your story along the "arc"
 Click [this link](https://docs.google.com/document/d/1ZJv0wCOBM4SrBvcJDyc8PwoytF4yWtOW7QQxafTXgU0/copy) to create a copy of the prompts.
