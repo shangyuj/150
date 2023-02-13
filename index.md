@@ -1,4 +1,7 @@
 # English 150
+## 2/13
+### Freewrite: Who would you like to interview?
+Click [this link](https://docs.google.com/document/d/1gBOVXZMYk-SG7I_g4FpHlq3WNzyaJioVcHBLBUJeZTk/copy) to make a copy of the prompts.
 ## 2/1
 ### Freewrite: Audience Analysis
 Click [this link](https://docs.google.com/document/d/1oBFbdjgxg5MzD56YOhMST_6pGMu9baji7kvEpJ5XWbg/copy) for the prompts.
