@@ -6,7 +6,7 @@ Read two examples of "impression shaping" on [this Google Doc](https://docs.goog
   - word choice
   - tone of language
   - narrating perspective (telling vs. showing)
-  - the visuals 
+  - the visual
 ## 2/13
 ### Freewrite: Who would you like to interview?
 Click [this link](https://docs.google.com/document/d/1gBOVXZMYk-SG7I_g4FpHlq3WNzyaJioVcHBLBUJeZTk/copy) to make a copy of the prompts.
