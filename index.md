@@ -1,4 +1,8 @@
 # English 150
+## 2/15
+### Examples of "impression shaping"
+Read two examples of "impression shaping" on [this Google Doc](https://docs.google.com/document/d/1eg1P7SgkfFLUQrU1EWgOcMPOcix9NDwXRm-_r5f8ePY/edit?usp=sharing)  
+- These two 
 ## 2/13
 ### Freewrite: Who would you like to interview?
 Click [this link](https://docs.google.com/document/d/1gBOVXZMYk-SG7I_g4FpHlq3WNzyaJioVcHBLBUJeZTk/copy) to make a copy of the prompts.
