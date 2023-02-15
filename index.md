@@ -6,7 +6,7 @@ Read two examples of "impression shaping" on [this Google Doc](https://docs.goog
   - word choice
   - tone of language
   - narrating perspective (telling vs. showing*)
-  - the visual
+  - the visual  
 (* telling vs. showing: telling — saying explicitly what the writer thinks about the subject; showing — creating a dominant impression through description and narration)
 ## 2/13
 ### Freewrite: Who would you like to interview?
