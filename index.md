@@ -8,7 +8,7 @@ Read two examples of "impression shaping" on [this Google Doc](https://docs.goog
   - narrating perspective (telling vs. showing*)
   - the visual  
   
-(* telling vs. showing: telling — saying explicitly what the writer thinks about the subject; showing — creating a dominant impression through description and narration)
+(* telling — saying explicitly what the writer thinks about the subject; showing — creating a dominant impression through description and narration)
 ## 2/13
 ### Freewrite: Who would you like to interview?
 Click [this link](https://docs.google.com/document/d/1gBOVXZMYk-SG7I_g4FpHlq3WNzyaJioVcHBLBUJeZTk/copy) to make a copy of the prompts.
