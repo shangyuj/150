@@ -3,7 +3,7 @@
 ### Examples of "impression shaping"
 Read two examples of "impression shaping" on [this Google Doc](https://docs.google.com/document/d/1eg1P7SgkfFLUQrU1EWgOcMPOcix9NDwXRm-_r5f8ePY/edit?usp=sharing)  
 - These two examples take somewhat different approaches toward shaping a dominent impression of the profile subject. Read and compare. While reading, focuse on these aspects:
--- word choices
+ - word choices
 - 
 ## 2/13
 ### Freewrite: Who would you like to interview?
