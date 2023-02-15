@@ -9,6 +9,8 @@ Read two examples of "impression shaping" on [this Google Doc](https://docs.goog
   - the visual  
   
 (* telling — saying explicitly what the writer thinks about the subject; showing — creating a dominant impression through description and narration)
+### Freewrite: What could be the dominant impression of your profile subject? 
+Click [this link](https://docs.google.com/document/d/1-ADpf1JnZrKzUmqWUa31JZcdZ4fUAxBn4lojof5TvgA/copy) to make a copy of the prompts.
 ## 2/13
 ### Freewrite: Who would you like to interview?
 Click [this link](https://docs.google.com/document/d/1gBOVXZMYk-SG7I_g4FpHlq3WNzyaJioVcHBLBUJeZTk/copy) to make a copy of the prompts.
