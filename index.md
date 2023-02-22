@@ -1,4 +1,27 @@
 # English 150
+## 2/22
+### *Finding and Evaluating Sources*
+#### 1. Compare the following two sources. Which do you think is a more reliable source?
+**American Academy of Pediatrics** [(Link)](https://www.aap.org/) vs. **American College of Pediatricians** [(Link)](https://acpeds.org/)  
+- Compare their names, the design of their websites, the content on their websites.  
+- Do a search of them. Compare the results of the searches.  
+
+Which method above gives you the most straightforward, comprehensive understanding of these sources?
+  
+#### 2. In groups, find at least **two sources** that you could use for a paper on one of the following topics:  
+- The effects of veganism on the environment  
+- Pros/cons of abolishing college tuition fees  
+
+1. Pick a topic.  
+2. Two minutes to find sources.  
+3. Three minutes to discuss and evaluate the sources as a group. (Don't forget to do external searches.)  
+4. Report to the class your evaluation of the sources: How did you evaluate them? Are they reliable? Why?  
+  
+### *Tracing Claims and Evaluating Phrasing of Claims*
+#### 3. Evaluate Author James Clear's phrasing of a claim
+A claim made in James Clear's blog: [Click here](https://jamesclear.com/habits#:~:text=According%20to%20researchers%20at%20Duke%20University%2C%20habits%20account%20for%20about%2040%20percent%20of%20our%20behaviors%20on%20any%20given%20day.%C2%A0) (highlighted sentence)  
+The original claim in the research paper: [Click here](https://drive.google.com/file/d/1gjJM0-7g2VHLGKrsNwGU53dFXbisX4J2/view?usp=sharing) (highlighted sentence)  
+
 ## 2/15
 ### Examples of "impression shaping"
 Read two examples of "impression shaping" on [this Google Doc](https://docs.google.com/document/d/1eg1P7SgkfFLUQrU1EWgOcMPOcix9NDwXRm-_r5f8ePY/edit?usp=sharing)  
