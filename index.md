@@ -6,7 +6,7 @@
 - Compare their names, the design of their websites, and the content on their websites.  
 - Search their names on the Internet. Compare the results of the searches.  
 
-Which source seems more reliable to you? Why?
+Which source seems more reliable to you? Why?  
 Which evaluation method gave you the most straightforward, comprehensive overview of these sources?
   
 #### 2. In groups, find at least **two sources** that you could use for a paper on one of the following topics:  
