@@ -3,10 +3,11 @@
 ### *Finding and Evaluating Sources*
 #### 1. Compare the following two sources. Which do you think is a more reliable source?
 **American Academy of Pediatrics** [(Link)](https://www.aap.org/) vs. **American College of Pediatricians** [(Link)](https://acpeds.org/)  
-- Compare their names, the design of their websites, the content on their websites.  
-- Do a search of them. Compare the results of the searches.  
+- Compare their names, the design of their websites, and the content on their websites.  
+- Search their names on the Internet. Compare the results of the searches.  
 
-Which method above gives you the most straightforward, comprehensive understanding of these sources?
+Which source seems more reliable to you? Why?
+Which evaluation method gave you the most straightforward, comprehensive overview of these sources?
   
 #### 2. In groups, find at least **two sources** that you could use for a paper on one of the following topics:  
 - The effects of veganism on the environment  
