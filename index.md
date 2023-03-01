@@ -1,4 +1,12 @@
 # English 150
+## 3/1 
+### Module 2 Peer Review
+#### Check-in Sheets: 
+[Section 9](https://docs.google.com/spreadsheets/d/1zim07oNk5nB9GeM4tFlIecoBJY9_6UU4olaojzEyeQc/edit?usp=sharing)  
+[Section 10](https://docs.google.com/spreadsheets/d/1ho5pYqs0JBXgC1z18bomKmgKc14lg53ivX1jROrNxfw/edit?usp=sharing)  
+#### Peer review instructions:
+[Section 9](https://canvas.iastate.edu/courses/96783/assignments/1879862)  
+[Section 10](https://canvas.iastate.edu/courses/96784/assignments/1879955)  
 ## 2/22
 ### *Finding and Evaluating Sources*
 #### 1. Compare the following two sources. Which do you think is a more reliable source?
