@@ -1,5 +1,5 @@
 # English 150
-## 3/1 
+## 3/1 & 3/3
 ### Module 2 Peer Review
 #### Check-in Sheets: 
 [Section 9](https://docs.google.com/spreadsheets/d/1zim07oNk5nB9GeM4tFlIecoBJY9_6UU4olaojzEyeQc/edit?usp=sharing)  
