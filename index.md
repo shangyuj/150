@@ -1,25 +1,25 @@
 # English 150
 ## 3/6 
 ### Typical Fallacies
-Scare tactics - A strategy intended to manipulate public opinion about a particular issue by arousing fear or alarm. (Example: "Goodyear. Because a lot is riding on your tires." [Visual: a baby in a car seat. Outside the car it is raining and the car is slipping unsteadily.]) 
+**Scare tactics** - A strategy intended to manipulate public opinion about a particular issue by arousing fear or alarm. (Example: "Goodyear. Because a lot is riding on your tires." [Visual: a baby in a car seat. Outside the car it is raining and the car is slipping unsteadily.]) 
 
-Either/or choices (false dilemma) - A conclusion that oversimplifies the argument by reducing it to only two sides or choices. (Examples: "We can either stop using cars or destroy the earth. " "You're either for the war or against the troops.") 
+**Either/or choices (false dilemma)** - A conclusion that oversimplifies the argument by reducing it to only two sides or choices. (Examples: "We can either stop using cars or destroy the earth. " "You're either for the war or against the troops.") 
 
-Slippery slope - In a slippery slope argument, a course of action is rejected because, with little or no evidence, one insists that it will lead to a chain reaction resulting in an undesirable end. (Examples: "Universal background checks will inevitably be followed by a national registry of gun-owners which will inevitably be followed by confiscation of all their guns." "Today late for ten minutes, tomorrow late for an hour, and then someday you will simply cease to show up.") 
+**Slippery slope** - In a slippery slope argument, a course of action is rejected because, with little or no evidence, one insists that it will lead to a chain reaction resulting in an undesirable end. (Examples: "Universal background checks will inevitably be followed by a national registry of gun-owners which will inevitably be followed by confiscation of all their guns." "Today late for ten minutes, tomorrow late for an hour, and then someday you will simply cease to show up.") 
 
-Bandwagon appeals - Urge people to follow the same path everyone else is taking. (Example: iPhone 5 Advertisement: "Loving it is easy. That's why so many people do.") 
+**Bandwagon appeals** - Urge people to follow the same path everyone else is taking. (Example: iPhone 5 Advertisement: "Loving it is easy. That's why so many people do.") 
 
-Ad hominem arguments (Latin for "to the man") - Arguments attack the character of a person rather than the claims he or she makes. (Example: Student: "Hey, Professor Moore, we shouldn't have to read this book by Freud. Everyone knows he used cocaine.") 
+**Ad hominem arguments (Latin for "to the man")** - Arguments attack the character of a person rather than the claims he or she makes. (Example: Student: "Hey, Professor Moore, we shouldn't have to read this book by Freud. Everyone knows he used cocaine.") 
 
-Hasty generalization - An inference drawn from insufficient evidence (Example: "Because my Fiat broke down, all Fiats must be junk.") 
+**Hasty generalization** - An inference drawn from insufficient evidence (Example: "Because my Fiat broke down, all Fiats must be junk.") 
 
-Equivocations (doublespeak) - When someone uses ambiguous language in order to support or refute an argument; when the conclusion of an argument depends on the fact that the word or phrase is used, either explicitly or implicitly, in two different senses in the argument. (Example: "Knowledge is power. Power corrupts. Study hard - be evil!") 
+**Equivocations (doublespeak)** - When someone uses ambiguous language in order to support or refute an argument; when the conclusion of an argument depends on the fact that the word or phrase is used, either explicitly or implicitly, in two different senses in the argument. (Example: "Knowledge is power. Power corrupts. Study hard - be evil!") 
 
-Non sequitur (Latin for "it does not follow") - When the conclusion does not follow from the premises. (Examples: "People generally like to walk on the beach. Beaches have sand. Therefore, having sand floors in homes would be a great idea!" "I got sick after eating sushi last week. Pizza is the best.") 
+**Non sequitur (Latin for "it does not follow")** - When the conclusion does not follow from the premises. (Examples: "People generally like to walk on the beach. Beaches have sand. Therefore, having sand floors in homes would be a great idea!" "I got sick after eating sushi last week. Pizza is the best.") 
 
-Straw man - When someone takes another person's argument or point, distorts it or exaggerates it in some kind of extreme way, and then attacks the extreme distortion as if that is really the claim the first person is making. (Example: After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenseless by cutting military spending.) 
+**Straw man** - When someone takes another person's argument or point, distorts it or exaggerates it in some kind of extreme way, and then attacks the extreme distortion as if that is really the claim the first person is making. (Example: After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenseless by cutting military spending.) 
 
-Red herring (misdirection) - An abrupt change of subject or introduction of an irrelevant claim to throw readers off the trail. A deliberate diversion of attention with the intention of trying to abandon the original argument. (Examples: "The climate is always changing - it's natural." A: "It is morally wrong to cheat on your spouse, why on earth would you have done that?" B: "But what is morality exactly?") 
+**Red herring (misdirection)** - An abrupt change of subject or introduction of an irrelevant claim to throw readers off the trail. A deliberate diversion of attention with the intention of trying to abandon the original argument. (Examples: "The climate is always changing - it's natural." A: "It is morally wrong to cheat on your spouse, why on earth would you have done that?" B: "But what is morality exactly?") 
 ## 3/1 & 3/3
 ### Module 2 Peer Review
 #### Check-in Sheets: 
