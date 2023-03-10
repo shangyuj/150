@@ -6,6 +6,8 @@
 Using [questions for rhetorical analysis](https://docs.google.com/document/d/1efjKNW65pdbOq4vftard-fhOM7iwrzshA41k8-zXCV4/edit?usp=sharing), analyze a video: [Why California's musical road sounds terrible](https://youtu.be/Ef93WmlEho0)  
 Using [questions for rhetorical analysis](https://docs.google.com/document/d/1efjKNW65pdbOq4vftard-fhOM7iwrzshA41k8-zXCV4/edit?usp=sharing), analyze an infographic: [Take Back Your Mornings: DOs and DON'Ts](https://cdn.lifehack.org/wp-content/uploads/2015/09/1413563200-take-your-mornings-back-infographic1.jpg)  
 Using [questions for rhetorical analysis](https://docs.google.com/document/d/1efjKNW65pdbOq4vftard-fhOM7iwrzshA41k8-zXCV4/edit?usp=sharing), try analyzing the multimodal text of your choice.  
+3. Homework  
+[Choosing a topic for analysis](https://canvas.iastate.edu/courses/96783/modules/items/5094409)
 ## 3/6 
 ### Typical Fallacies
 **Scare tactics** - A strategy intended to manipulate public opinion about a particular issue by arousing fear or alarm. (Example: "Goodyear. Because a lot is riding on your tires." [Visual: a baby in a car seat. Outside the car it is raining and the car is slipping unsteadily.]) 
