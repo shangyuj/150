@@ -1,8 +1,8 @@
 # English 150
 ## 3/10
 [Questions for Rhetorical Analysis](https://docs.google.com/document/d/1efjKNW65pdbOq4vftard-fhOM7iwrzshA41k8-zXCV4/edit?usp=sharing)  
-Practice—Analyze a video: [Why California's musical road sounds terrible](https://youtu.be/Ef93WmlEho0)  
-Practice—Analyze an infographic: [Take Back Your Mornings: DOs and DON'Ts](https://cdn.lifehack.org/wp-content/uploads/2015/09/1413563200-take-your-mornings-back-infographic1.jpg)
+Practice — Analyze a video: [Why California's musical road sounds terrible](https://youtu.be/Ef93WmlEho0)  
+Practice — Analyze an infographic: [Take Back Your Mornings: DOs and DON'Ts](https://cdn.lifehack.org/wp-content/uploads/2015/09/1413563200-take-your-mornings-back-infographic1.jpg)
 
 ## 3/6 
 ### Typical Fallacies
